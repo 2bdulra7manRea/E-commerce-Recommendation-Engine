@@ -11,7 +11,6 @@ This project implements a products recommendation engine for an e-commerce platf
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Features
@@ -32,13 +31,13 @@ This project implements a products recommendation engine for an e-commerce platf
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/2bdulra7manRea/recommendation-engine.git
+    git clone https://github.com/2bdulra7manRea/E-commerce-Recommendation-Engine.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd recommendation-engine
+    cd E-commerce-Recommendation-Engine
     ```
 
 3. Install dependencies:
